@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LANC.iml" filepath="$PROJECT_DIR$/LANC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LANC Client 1.0/LANC Client 1.0.iml" filepath="$PROJECT_DIR$/LANC Client 1.0/LANC Client 1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LANC Server 1.0/LANC Server 1.0.iml" filepath="$PROJECT_DIR$/LANC Server 1.0/LANC Server 1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SNOW/SNOW.iml" filepath="$PROJECT_DIR$/SNOW/SNOW.iml" />
+    </modules>
+  </component>
+</project>
